@@ -5,3 +5,4 @@ let c = a + 2;
 let d = 2;
 let e = 3;
 let f = 4;
+let g = 6;
